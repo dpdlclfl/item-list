@@ -1,62 +1,62 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
+		"abr": "토네이도",
+		"price": 1400,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "tornados",
-		"price": 2600,
+		"abr": "많은토네이도",
+		"price": 4400,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "clearweather",
+		"abr": "맑은날씨",
 		"price": 400,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "rain",
+		"abr": "비",
 		"price": 350,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
-		"price": 650,
+		"abr": "구토비",
+		"price": 950,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "foggyrain",
+		"abr": "안개비",
 		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "rainythunderstorm",
+		"abr": "폭풍우",
 		"price": 250,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "drythunderstorm",
+		"abr": "마른벼락",
 		"price": 450,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "snowgentle",
+		"abr": "눈",
 		"price": 350,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "snowhard",
+		"abr": "폭설",
 		"price": 450,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "fog",
+		"abr": "안개",
 		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "heatwave",
+		"abr": "폭염",
 		"price": 750,
 		"karmatype": "Bad"
 	},
@@ -66,17 +66,17 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "coldsnap",
+		"abr": "한파",
 		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "solarflare",
-		"price": 500,
+		"abr": "흑점폭발",
+		"price": 700,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "shortcircuit",
+		"abr": "파지직",
 		"price": 500,
 		"karmatype": "Bad"
 	},
@@ -86,17 +86,17 @@
 		"karmatype": "Doom"
 	},
 	{
-		"abr": "volcanicwinter",
+		"abr": "화산겨울",
 		"price": 3200,
 		"karmatype": "Doom"
 	},
 	{
-		"abr": "eclipse",
+		"abr": "일식",
 		"price": 450,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "aurora",
+		"abr": "오로라",
 		"price": 200,
 		"karmatype": "Good"
 	},
@@ -106,52 +106,52 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "animaltame",
+		"abr": "동물복종",
 		"price": 150,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "resourcepodcrash",
+		"abr": "화물낙하기",
 		"price": 300,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "tradercaravan",
-		"price": 275,
+		"abr": "상인무리",
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "orbitaltraderarrival",
-		"price": 350,
+		"abr": "상선도착",
+		"price": 650,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "meteor",
+		"abr": "운석충돌",
 		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
+		"abr": "구세주",
 		"price": 350,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "madanimal",
+		"abr": "동물광란",
 		"price": 200,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "psychicdrone",
-		"price": 400,
+		"abr": "괴로운정신파동",
+		"price": 700,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "psychicsoothe",
-		"price": 250,
+		"abr": "편안한정신파동",
+		"price": 450,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "ambrosiasprout",
+		"abr": "암브로시아발아",
 		"price": 150,
 		"karmatype": "Good"
 	},
@@ -161,32 +161,32 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "farmanimals",
+		"abr": "동물무리합류",
 		"price": 400,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wildman",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "rarethrumbos",
+		"abr": "야인",
 		"price": 500,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "shipchunkdrop",
+		"abr": "희귀트럼보",
+		"price": 800,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "우주선잔해",
 		"price": 300,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "travelergroup",
+		"abr": "여행객",
 		"price": 80,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "visitorgroup",
+		"abr": "방문객",
 		"price": 200,
 		"karmatype": "Good"
 	},
@@ -196,52 +196,52 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "party",
+		"abr": "파티",
 		"price": 400,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "alphabeavers",
+		"abr": "알파비버",
 		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "shippartpoison",
+		"abr": "생태조작함선",
 		"price": 1900,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "shippartpsychic",
+		"abr": "정신조작함선",
 		"price": 2400,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 700,
+		"abr": "군사지원",
+		"price": 1700,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "raid",
+		"abr": "습격",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "dropraid",
+		"abr": "중앙낙하습격",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "sapperraid",
+		"abr": "공병습격",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "siegeraid",
+		"abr": "박격포습격",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "mechanoidraid",
+		"abr": "메카노이드습격",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -256,52 +256,52 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "predators",
+		"abr": "곤충군락",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "randomdisease",
+		"abr": "랜덤질병",
 		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "disease",
+		"abr": "질병",
 		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 12001,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "pawn",
-		"price": 1,
+		"price": 15555,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "levelskill",
+		"abr": "스킬구매",
 		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "removetrait",
-		"price": 1,
+		"abr": "특성제거",
+		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "genderswap",
-		"price": 600,
+		"abr": "성별전환",
+		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "prisoner",
-		"price": 800,
+		"price": 1800,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "visitcolony",
+		"abr": "거래방문객",
 		"price": 300,
 		"karmatype": "Good"
 	},
@@ -311,12 +311,12 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "torytalkervote",
+		"abr": "랜덤투표",
 		"price": 750,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "hodlbotvote",
+		"abr": "투표",
 		"price": 600,
 		"karmatype": "Neutral"
 	},
@@ -341,13 +341,13 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "healme",
-		"price": 2167,
+		"abr": "내림회복",
+		"price": 1700,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "surgery",
-		"price": 1,
+		"price": 1111,
 		"karmatype": "Neutral"
 	},
 	{
@@ -357,7 +357,7 @@
 	},
 	{
 		"abr": "replacetrait",
-		"price": 1,
+		"price": 11111,
 		"karmatype": "Neutral"
 	},
 	{
